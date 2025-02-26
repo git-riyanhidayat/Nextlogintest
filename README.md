@@ -10,6 +10,7 @@ trim() digunakan untuk menghapus spasi di awal dan akhir input. Ini memastikan i
 Pesan error ditampilkan menggunakan textContent, bukan innerHTML, sehingga aman dari serangan XSS.
 
 **Contoh Case Validasi :**
+
 **Kasus 1: Input Kosong**
 Jika pengguna mencoba login tanpa mengisi username atau password, pesan error akan muncul: Username dan password harus diisi y!
 
